@@ -2,7 +2,7 @@
 👀 I have a strong interest in Machine Learning and Software Engineering.  
 🌱 Currently, I am advancing my skills in Software Engineering to build innovative solutions, with a preferred tech stack of Python.  
 💞️ I am eager to collaborate on impactful projects that drive technology forward.  
-📫 Feel free to reach out to me at: 07045103386  
+📫 Feel free to reach out to me at: 07045103386. (Whatsapp - 08120775887)
 
 <!---
 Ola-Tek/Ola-Tek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
